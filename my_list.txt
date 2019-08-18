@@ -1,4 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <ul><\ul>
-<\html>
+  <ul>
+    <li>
+  </ul>
+</html>
