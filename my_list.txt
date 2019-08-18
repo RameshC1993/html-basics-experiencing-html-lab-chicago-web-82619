@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <ul>
-    <li>Ramesh</li>
-    <li>Chuwan</li>
+    
   </ul>
 </html>
